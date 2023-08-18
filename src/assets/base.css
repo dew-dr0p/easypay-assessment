@@ -3,6 +3,11 @@
   src: url(./fonts/Aeonik-/Aeonik-Regular.otf) format('opentype');
   font-weight: 500;
 }
+@font-face {
+  font-family: MADEMellowPERSONALUSE;
+  src: url(./fonts/made_mellow/MADEMellowPERSONALUSE-Medium.otf) format('opentype');
+  font-weight: 500;
+}
 
 *,
 *::before,
@@ -17,7 +22,7 @@ body {
   color: #515251;
   background: #FFF;
   transition: color 0.5s, background-color 0.5s;
-  line-height: 1.6;
+  line-height: 24px;
   font-family: 'Aeonik', sans-serif;
   font-size: 16px;
   text-rendering: optimizeLegibility;
