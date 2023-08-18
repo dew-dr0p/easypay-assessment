@@ -6,7 +6,7 @@ import MainButton from './MainButton.vue';
     <div class="absolute top-0 left-0 w-screen overflow-hidden -z-[1]">
         <img src="../assets/Images/gradients.png" alt="">
     </div>
-    <section class="py-20 px-48 relative">
+    <section class="py-20 px-12 lg:px-24 xl:px-48 relative">
         <div class="grid">
             <div class="max-w-[552px] py-10">
                 <h3 class=" font-[MADEMellowPERSONALUSE] text-[64px] leading-[72px] text-[#292A29]">Run your <span class="text-[#11453B]">payroll</span> <span class="text-[#B4A572]">easily</span> in <span class="text-[#EA4E4B]">seconds</span></h3>
@@ -50,7 +50,7 @@ import MainButton from './MainButton.vue';
                 <img src="../assets/Images/MaskGroup.png" alt="">
             </div>
         </div>
-        <div class="text-center py-32 px-48">
+        <div class="text-center py-32 px-12 lg:px-24 xl:px-48">
             <h3 class="font-[MADEMellowPERSONALUSE] text-[64px] leading-[64px] text-[#11453B]">For Individuals and Businesses</h3>
             <p class="text-xl leading-6 tracking-[0.2px] font-normal mt-4">Join 200+ businesses using Eazipay's easy solution.</p>
             <div class="grid grid-flow-col w-fit m-auto my-16">
@@ -116,7 +116,7 @@ import MainButton from './MainButton.vue';
             </div>
         </div>
     </section>
-    <section class="bg-[#FFE9E7] bg-[url(../assets/Images/Patterns.png)] mt-36 px-48">
+    <section class="bg-[#FFE9E7] bg-[url(../assets/Images/Patterns.png)] mt-36 px-12 lg:px-24 xl:px-48">
         <img src="../assets/Images/Frame25.png" alt="" class="relative -left-10">
         <div class="grid grid-flow-col mt-8 mx-auto w-fit gap-20 pb-36">
             <div class="grid gap-[2.625rem] w-fit">
@@ -150,7 +150,7 @@ import MainButton from './MainButton.vue';
             </div>
         </div>
     </section>
-    <section class="relative px-48 mt-0">
+    <section class="relative px-12 lg:px-24 xl:px-48 mt-0">
         <img src="../assets/Images/Frame3.png" alt="" class="absolute right-0 w-fit -z-[1]">
         <img src="../assets/Images/Frame251.png" alt="" class="absolute left-0 top-20">
         <div class="grid grid-flow-col gap-36 place-items-center mt-[8.25rem] mb-28">
@@ -176,7 +176,7 @@ import MainButton from './MainButton.vue';
             </div>
         </div>
     </section>
-    <footer class="py-16 grid grid-flow-col gap-32 px-48 border-t border-[#EAEAEA]">
+    <footer class="py-16 grid grid-flow-col gap-32 px-12 lg:px-24 xl:px-48 border-t border-[#EAEAEA]">
         <div class="gap-10 grid">
             <img src="../assets/Images/Logo.svg" alt="">
             <div class="gap-2 text-sm font-normal tracking-[0.25px]">

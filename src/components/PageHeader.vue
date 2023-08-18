@@ -3,7 +3,7 @@ import MainButton from '@/components/MainButton.vue'
 </script>
 
 <template>
-    <div class="flex items-center justify-between py-5 px-48">
+    <div class="flex items-center justify-between py-5 px-12 lg:px-24 xl:px-48">
         <img src="../assets/Images/Logo.svg" alt="">
         <div class="flex gap-8">
             <p>Individual</p>
